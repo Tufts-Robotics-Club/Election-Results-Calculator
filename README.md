@@ -26,7 +26,7 @@ where `data_file` is a path to a csv of the raw qualitrics reports (see [Input f
 
 ## Input Format
 
-Unfortunately I no longer have qualitrics access so cannot give exact instructions, but there should be a way to download the results of a form as a csv. You should then **delete the second row** (ngl I forgot why-- I think it's just metadata or something?), and then you should be good to go :) See [fall_2024.csv](fall_2024.csv) for an example.
+Unfortunately I no longer have qualitrics access so cannot give exact instructions, but there should be a way to download the results of a form as a csv. You should then **delete the second row** (ngl I forgot why-- I think it's just metadata or something?), and then you should be good to go :) See [spring_2024.csv](spring_2024.csv) for an example.
 
 (If you&mdash; yeah, *you*&mdash; want to make these instructions more detailed, please do!!)
 
