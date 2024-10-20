@@ -4,13 +4,13 @@ This script translates the raw qualtrics results (downloaded as a csv) into a li
 
 ## Dependencies
 
-This script was developted using python 3.11.7. Libraries used are listed in [requirements.txt](./requirements.txt); you can install them by running `pip install -r requrements.txt`.
+This script was developted using python 3.11.7. Libraries used are listed in [requirements.txt](./requirements.txt); you can install them by running `pip install -r requirements.txt`.
 
 ## How to Run
 
 The script can be run using the following command:
 
-`python main.py [-h] [--roles ROLES] [--double_roles DOUBLE_ROLES] [--question_pattern QUESTION_PATTERN] [--calculation_method CALCULATION_METHOD] data_file`
+`python main.py [--roles ROLES] [--double_roles DOUBLE_ROLES] [--question_pattern QUESTION_PATTERN] [--calculation_method CALCULATION_METHOD] data_file`
 
 where `data_file` is a path to a csv of the raw qualitrics reports (see [Input format](#input-format) below). The optional parameters are as follows:
 
